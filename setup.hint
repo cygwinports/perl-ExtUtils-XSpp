@@ -1,0 +1,4 @@
+category: Devel Perl
+requires: perl
+sdesc: "Perl XS for C++"
+ldesc: "Perl XS for C++"

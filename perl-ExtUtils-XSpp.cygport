@@ -2,8 +2,10 @@ CPAN_AUTHOR=smueller
 inherit perl
 
 NAME="perl-ExtUtils-XSpp"
-VERSION=0.1700
+VERSION=0.18
 RELEASE=1
 CATEGORY="Devel Perl"
 SUMMARY="Perl XS for C++"
 DESCRIPTION="Perl XS for C++"
+
+ARCH=noarch

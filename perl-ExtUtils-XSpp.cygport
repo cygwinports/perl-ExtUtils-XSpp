@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-ExtUtils-XSpp"
 VERSION=0.18
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel Perl"
 SUMMARY="Perl XS for C++"
 DESCRIPTION="Perl XS for C++"
